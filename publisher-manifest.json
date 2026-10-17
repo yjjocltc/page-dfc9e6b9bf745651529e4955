@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "046870d207e22f449054a827",
+  "owner": "yjjocltc",
+  "repo": "page-dfc9e6b9bf745651529e4955",
+  "title": "GoToNet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dfc9e6b9bf745651529e4955",
+      "a": "GoToNet",
+      "b": "",
+      "entity": "GoToNet",
+      "brand": "GoToNet",
+      "separator": "",
+      "path": "index.html",
+      "hash": "870349753fd115dd08c6981a34f2f45b26a25390d6e6d03ad377c7fab30488f9",
+      "content": {
+        "keyword1": "GoToNet",
+        "keyword2": "",
+        "primary_entity": "GoToNet",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GoToNet 以专栏式记录的方式，讲述一家网络服务从线路搭建到日常维护的细节，提供基础版、旗舰版与团队版三种使用方案。",
+          "AI_DESCRIPTION": "GoToNet 以专栏式记录的方式，讲述一家网络服务从线路搭建到日常维护的细节，提供基础版、旗舰版与团队版三种使用方案。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#ffffff;--ink:#141414;--soft:#5c5c5c;--line:#ececec;--accent:#ff5a00}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Helvetica Neue\",\"PingFang SC\",\"Microsoft YaHei\",Arial,sans-serif;font-size:15px;line-height:1.75;-webkit-font-smoothing:antialiased;padding-bottom:88px}\na{color:var(--ink);text-decoration:none}\nh1,h2,h3{font-weight:600;letter-spacing:.01em}\n.wrap{max-width:720px;margin:0 auto;padding:72px 24px 64px}\n.hero h1{font-size:30px;line-height:1.4;margin:0 0 28px}\n.hero .lead{color:var(--soft);font-size:16px;margin:0 0 48px}\n.timeline{border-left:2px solid var(--accent);padding-left:28px;margin:0 0 16px}\n.timeline dt{font-weight:600;font-size:13px;color:var(--accent);margin-top:22px}\n.timeline dt:first-child{margin-top:0}\n.timeline dd{margin:6px 0 0;color:var(--ink);font-size:15px}\n.timeline dd .sub{color:var(--soft);font-size:14px;display:block;margin-top:4px}\n.section{margin-top:80px}\n.section h2{font-size:24px;margin:0 0 8px}\n.section .kicker{color:var(--accent);font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:10px}\n.section p{color:var(--soft);margin:0 0 16px}\n.card{border-left:3px solid var(--accent);padding:10px 0 10px 18px;margin:22px 0}\n.card h3{font-size:16px;margin:0 0 6px}\n.card p{margin:0;font-size:14px}\n.plans-table{width:100%;border-collapse:collapse;font-size:14px;margin-top:24px}\n.plans-table th,.plans-table td{border:1px solid var(--line);padding:12px 10px;text-align:left;vertical-align:top}\n.plans-table thead th{background:#fafafa;font-weight:600}\n.plans-table .featured-col{border-top:3px solid var(--accent)}\n.plans-table .tag{display:inline-block;font-size:12px;color:#fff;background:var(--accent);padding:2px 8px;border-radius:2px;margin-left:6px}\n.usage ol{padding-left:20px;color:var(--soft)}\n.usage ol li{margin:10px 0}\n.faq{display:grid;grid-template-columns:1fr 1fr;gap:28px 40px;margin-top:24px}\n.faq .item h3{font-size:15px;margin:0 0 6px}\n.faq .item p{font-size:14px;margin:0}\n.clients{margin-top:24px;font-size:14px;color:var(--soft)}\n.clients ul{list-style:none;padding:0;margin:0}\n.clients li{border-left:3px solid var(--accent);padding:10px 0 10px 18px;margin:18px 0}\n.clients li strong{display:block;color:var(--ink);font-weight:600;font-size:15px}\n.clients li span{color:var(--soft);font-size:13px}\n.footer-note{margin-top:80px;font-size:13px;color:var(--soft);border-top:1px solid var(--line);padding-top:18px}\n.navbar{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid var(--line);z-index:20}\n.navbar-inner{max-width:720px;margin:0 auto;padding:12px 24px;display:flex;gap:18px;flex-wrap:wrap;font-size:13px;color:var(--soft)}\n.navbar-inner a{color:var(--ink)}\n.navbar-inner .brand{font-weight:600;color:var(--accent);margin-right:auto}\n@media(max-width:520px){\n  .faq{grid-template-columns:1fr}\n  .hero h1{font-size:26px}\n  .plans-table{font-size:12px}\n  .plans-table th,.plans-table td{padding:8px 6px}\n}\n</style><main class=\"wrap\">\n\n<section class=\"hero\">\n  <h1>GoToNet：一份关于网络通达的长期记录</h1>\n  <p class=\"lead\">这里没有夸张的承诺，也没有整齐划一的口号。我们只想把线路、节点、用量和支持这些日常细节，像写专栏一样慢慢讲清楚。</p>\n\n  <dl class=\"timeline\">\n    <dt>第一阶段 · 线路搭建</dt>\n    <dd>从最基础的入口部署开始，确认每个区域的中转结构。\n      <span class=\"sub\">这一步决定了后续所有体验的下限。</span>\n    </dd>\n\n    <dt>第二阶段 · 节点筛选</dt>\n    <dd>在不同时段反复测试候选节点，保留那些延迟和丢包都更平稳的线路。\n      <span class=\"sub\">我们更愿意用记录而不是宣传语来描述这个过程。</span>\n    </dd>\n\n    <dt>第三阶段 · 日常维护</dt>\n    <dd>上线之后才是真正开始的工作：监控、替换、补充、再监控。\n      <span class=\"sub\">GoToNet 的大部分时间，都花在这些不那么好看的事情上。</span>\n    </dd>\n\n    <dt>第四阶段 · 支持响应</dt>\n    <dd>当用户遇到问题时，我们希望回答是具体的，而不是模板化的。\n      <span class=\"sub\">这也解释了为什么我们不做无限设备、不限流量的承诺。</span>\n    </dd>\n  </dl>\n</section>\n\n<section class=\"section\">\n  <p class=\"kicker\">关于</p>\n  <h2>我们试图回答一个问题</h2>\n  <p>网络加速这件事，到底能不能讲得更清楚一点？市面上不乏宏大的叙事，但真正影响日常使用的，往往是那些被略过的细节：某条线路在晚间会不会变慢，某种解锁是否稳定，遇到问题时多久能有人回复。</p>\n  <p>GoToNet 不打算把自己包装成万能方案。我们提供三种清晰的使用方案，按照流量、设备数量和支持层级区分。如果你需要的是一次说人话的介绍，而不是一串营销词汇，那这里可能适合你。</p>\n\n  <div class=\"card\">\n    <h3>写给第一次使用的人</h3>\n    <p>如果你之前没接触过这类服务，不必一上来就选最贵的。基础版已经足够应付大部分日常浏览和轻量流媒体。等你看清楚自己的使用习惯，再决定要不要调整。</p>\n  </div>\n\n  <div class=\"card\">\n    <h3>写给对线路有要求的人</h3>\n    <p>旗舰版和团队版之间的差别，不只是流量数字。真正不同的是节点优先级、并发设备上限，以及遇到问题时由谁、在多久之内回应你。</p>\n  </div>\n</section>\n\n<section class=\"section\">\n  <p class=\"kicker\">方案</p>\n  <h2>三种使用方案，横向对照</h2>\n  <p>以下价格和权益以实际页面为准。我们更习惯把信息摊开在同一张表里，让你自己判断哪一种更合适。</p>\n\n  <table class=\"plans-table\">\n    <thead>\n      <tr>\n        <th>项目</th>\n        <th>基础版</th>\n        <th class=\"featured-col\">旗舰版<span class=\"tag\">推荐</span></th>\n        <th>团队版</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr>\n        <td>月费</td>\n        <td>¥15/月</td>\n        <td>¥35/月</td>\n        <td>¥85/月</td>\n      </tr>\n      <tr>\n        <td>年付</td>\n        <td>¥150/年</td>\n        <td>¥350/年</td>\n        <td>¥850/年</td>\n      </tr>\n      <tr>\n        <td>流量</td>\n        <td>每月 100GB</td>\n        <td>每月 300GB</td>\n        <td>每月 1000GB</td>\n      </tr>\n      <tr>\n        <td>设备</td>\n        <td>3 台同时在线</td>\n        <td>5 台同时在线</td>\n        <td>20 台同时在线</td>\n      </tr>\n      <tr>\n        <td>流媒体</td>\n        <td>解锁基础流媒体</td>\n        <td>全节点原生流媒体解锁</td>\n        <td>VIP 专属高带宽节点</td>\n      </tr>\n      <tr>\n        <td>线路</td>\n        <td>普通线路节点池</td>\n        <td>IPLC 专线游戏加速优化</td>\n        <td>支持企业定制路由</td>\n      </tr>\n      <tr>\n        <td>支持</td>\n        <td>常规工单</td>\n        <td>7x24 优先工单支持</td>\n        <td>专属客户经理服务</td>\n      </tr>\n    </tbody>\n  </table>\n</section>\n\n<section class=\"section usage\">\n  <p class=\"kicker\">使用</p>\n  <h2>从开通到连接，大约几步</h2>\n  <p>我们不打算把这部分写得像说明书一样冗长。大致流程如下，具体界面可能随版本调整。</p>\n  <ol>\n    <li>选择适合的方案并完成开通，账号信息会通过页面提示或邮件发送。</li>\n    <li>根据设备类型，下载或配置对应的客户端。目前我们不在此页面提供统一下载入口，请以开通后收到的指引为准。</li>\n    <li>在客户端中填入节点信息，选择当前可用的线路并连接。</li>\n    <li>如果连接异常，可以先切换节点；若问题持续，可通过工单或客户经理反馈。</li>\n  </ol>\n</section>\n\n<section class=\"section\">\n  <p class=\"kicker\">客户端</p>\n  <h2>支持哪些设备和系统</h2>\n  <p>我们尽量不在这里给出未经确认的下载地址。客户端的具体版本和获取方式，请在开通后查看官方指引。以下为常见的支持范围说明。</p>\n  <div class=\"clients\">\n    <ul>\n      <li>\n        <strong>Windows / macOS</strong>\n        <span>桌面端通常提供独立客户端，配置后可直接选择节点连接。</span>\n      </li>\n      <li>\n        <strong>Android / iOS</strong>\n        <span>移动端可使用系统级协议配置或对应客户端，具体以开通指引为准。</span>\n      </li>\n      <li>\n        <strong>路由器 / 网络层</strong>\n        <span>团队版用户如需在网关层部署，可联系客户经理确认兼容性。</span>\n      </li>\n    </ul>\n  </div>\n</section>\n\n<section class=\"section\">\n  <p class=\"kicker\">常见问题</p>\n  <h2>一些被反复问到的事</h2>\n  <div class=\"faq\">\n    <article class=\"item\">\n      <h3>基础版和旗舰版的主要区别是什么？</h3>\n      <p>除了流量和设备数量，旗舰版使用更高优先级的节点池，并附带 7x24 优先工单支持。如果你对晚高峰速度敏感，差别会比较明显。</p>\n    </article>\n    <article class=\"item\">\n      <h3>可以随时更换方案吗？</h3>\n      <p>可以在当前周期结束后切换。我们不强制绑定长期合约，但已支付的周期费用通常不予折算退还。</p>\n    </article>\n    <article class=\"item\">\n      <h3>设备数量超出限制会怎样？</h3>\n      <p>超过同时在线上限时，新设备可能无法连接，或较早的连接会被断开。团队版如需更高并发，建议联系客户经理。</p>\n    </article>\n    <article class=\"item\">\n      <h3>节点速度在晚间会变慢吗？</h3>\n      <p>任何共享线路在高峰期都会有波动。我们通过节点筛选和负载调整来缓解，但无法保证所有时段完全恒定。</p>\n    </article>\n    <article class=\"item\">\n      <h3>支持哪些流媒体？</h3>\n      <p>基础版支持常见流媒体解锁，旗舰版和团队版覆盖更完整的原生解锁。具体平台可能随地区和策略变化。</p>\n    </article>\n    <article class=\"item\">\n      <h3>遇到连接问题应该怎么做？</h3>\n      <p>先尝试切换节点，再确认本地网络。如果问题持续，通过工单或客户经理反馈，并附上连接时间和大致错误现象。</p>\n    </article>\n    <article class=\"item\">\n      <h3>提供试用吗？</h3>\n      <p>目前我们没有统一的免费试用通道。如果你对方案不确定，建议从月付基础版开始，体验后再决定是否调整。</p>\n    </article>\n    <article class=\"item\">\n      <h3>团队版可以定制路由吗？</h3>\n      <p>团队版支持企业定制路由，具体能力视实际需求而定。建议联系客户经理沟通使用场景后再确认。</p>\n    </article>\n  </div>\n</section>\n\n<p class=\"footer-note\">GoToNet 不在此页面提供交易或下载链接，所有正式入口请以开通后收到的官方指引为准。本页内容仅作为服务介绍与说明。</p>\n\n</main>\n\n<nav class=\"navbar\" aria-label=\"主导航\">\n  <div class=\"navbar-inner\">\n    <span class=\"brand\">GoToNet</span>\n    <a href=\"#\">关于</a>\n    <a href=\"#\">方案</a>\n    <a href=\"#\">使用</a>\n    <a href=\"#\">客户端</a>\n    <a href=\"#\">常见问题</a>\n  </div>\n</nav>",
+          "hash": "8fab33cdd01d58cb90e51f02726c0c5021ff23227a7891f43842c62d17744cf6",
+          "seo": {
+            "title": "GoToNet — 一份关于网络通达的长期记录",
+            "keywords": "GoToNet,网络加速,专线,流媒体解锁,团队网络",
+            "description": "GoToNet 以专栏式记录的方式，讲述一家网络服务从线路搭建到日常维护的细节，提供基础版、旗舰版与团队版三种使用方案。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "1845",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "srtkvf.cn",
+    "host": "p-b9e196a5fb.srtkvf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ba53aee93fb815f1bca09dc8c96e8abe4846514ba6905473e645fd2a12ce60d9",
+    "sitemap.xml": "db4de09525a188b0de540571ec026fa126ae0b1e9ec809b5f9d335a51412175e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e49e7331e44e66ba6caaf55ee6a25f9b99e22c3df31d813b079f7353d2fea639",
+    "robots.txt": "7048a3e5ac47d429e86cf40902b6a21a9283526b6462bbded9165133a6124c6f",
+    "b9b14d22fa7d22e2f12cbf1e0e8da961.txt": "4a8c6328ac20a77d1c82d880f674e85dbaf5db9943b509b5113a04267b99fe46"
+  },
+  "revision": "152003de20092fe155be6586b5f61bfbff2cb99f922ee93047d88b0a7ce51e07"
+}
